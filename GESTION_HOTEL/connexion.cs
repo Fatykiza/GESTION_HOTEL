@@ -8,6 +8,6 @@ namespace GESTION_HOTEL
 {
     internal class connexion
     {
-        public static string chemin = "server=DESKTOP-3PDK9AM\\SQLEXPRESS;database=GESTION_HOTEL;Integrade Security=true;";
+        public static string chemin = "server=Faty\\SQLServer;database=shop_db;Integrad Security=true;";
     }
 }
